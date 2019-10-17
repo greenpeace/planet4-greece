@@ -1,0 +1,22 @@
+{
+  "scenarios": [
+    {
+      "label": "Planet4 Africa act page",
+      "url": "https://APP_HOSTNAME/APP_HOSTPATH/epirease/",
+      "delay": 3000,
+      "misMatchThreshold": 0.5
+    },
+    {
+      "label": "Planet4 Africa explore page",
+      "url": "https://APP_HOSTNAME/APP_HOSTPATH/ekserevnise/",
+      "delay": 3000,
+      "misMatchThreshold": 0.5
+    },
+    {
+      "label": "Planet4 Africa privacy and cookies page",
+      "url": "https://APP_HOSTNAME/APP_HOSTPATH/politiki-aporritou/",
+      "delay": 3000,
+      "misMatchThreshold": 0.5
+    }
+  ]
+}
