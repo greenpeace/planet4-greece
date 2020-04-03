@@ -4,7 +4,9 @@
 	"license": "MIT",
 	"require": {
 		"greenpeace/planet4-child-theme-greece" : "0.*",
-		"wpackagist-plugin/elasticpress":"3.2.1"
+		"wpackagist-plugin/elasticpress":"3.2.1",
+		"maximebf/debugbar":"1.*",
+		"10up/debug-bar-elasticpress":"1.*"
 	},
 	"scripts": {
 		"core:language": "wp language core install el;wp language core activate el",
