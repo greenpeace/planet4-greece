@@ -3,7 +3,7 @@
 	"description": "Greenpeace P4 Greece",
 	"license": "MIT",
 	"require": {
-		"greenpeace/planet4-child-theme-greece" : "0.*"
+		"greenpeace/planet4-child-theme-greece" : "dev-master"
 	},
 	"scripts": {
 		"core:language": "wp language core install el;wp language core activate el",
