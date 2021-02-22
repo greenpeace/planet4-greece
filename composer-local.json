@@ -1,12 +1,12 @@
 {
-	"name": "greenpeace/planet4-greece",
-	"description": "Greenpeace P4 Greece",
-	"license": "MIT",
-	"require": {
-		"greenpeace/planet4-child-theme-greece" : "dev-master"
-	},
-	"scripts": {
-		"core:language": "wp language core install el;wp language core activate el",
-		"site:custom" : ["@core:language"]
-	}
+    "name": "greenpeace/planet4-greece",
+    "description": "Greenpeace P4 Greece",
+    "license": "MIT",
+    "require": {
+        "greenpeace/planet4-child-theme-greece" : "dev-master"
+    },
+    "scripts": {
+        "core:language": "wp language core install el;wp language core activate el",
+        "site:custom" : ["@core:language"]
+    }
 }
