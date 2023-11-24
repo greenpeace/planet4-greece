@@ -5,7 +5,8 @@
   "require": {
     "greenpeace/planet4-child-theme-greece": "dev-main",
     "plugins/gravityformsstripe": "*",
-    "wpackagist-plugin/zapier":"1.0.4"
+    "wpackagist-plugin/zapier":"1.0.4",
+    "wpackagist-plugin/moosend-email-marketing":"1.0.190"
   },
   "scripts": {
     "core:language": "wp language core install el;wp language core activate el",
