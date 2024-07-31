@@ -1,0 +1,6 @@
+{
+  "require": {
+    "greenpeace/planet4-master-theme": "dev-planet-7556-datalayer",
+    "greenpeace/planet4-child-theme-greece": "dev-main"
+  }
+}

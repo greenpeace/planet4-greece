@@ -3,7 +3,6 @@
   "description": "Greenpeace P4 Greece",
   "license": "MIT",
   "require": {
-    "greenpeace/planet4-master-theme": "dev-planet-7556-datalayer",
     "greenpeace/planet4-child-theme-greece": "dev-main",
     "plugins/gravityformsstripe": "*",
     "plugins/gravityformssurvey": "*",
