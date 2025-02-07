@@ -3,7 +3,7 @@
   "description": "Greenpeace P4 Greece",
   "license": "MIT",
   "require": {
-    "greenpeace/planet4-child-theme-greece": "dev-main",
+    "greenpeace/planet4-child-theme-greece": "dev-update-page-header-title-font-weight",
     "plugins/gravityformsstripe": "*",
     "plugins/gravityformssurvey": "*",
     "wpackagist-plugin/zapier": "1.0.4",
