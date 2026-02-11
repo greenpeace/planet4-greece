@@ -6,6 +6,7 @@
     "greenpeace/planet4-child-theme-greece": "dev-main",
     "plugins/gravityformsstripe": "*",
     "plugins/gravityformssurvey": "*",
+    "plugins/gravityformssalesforce": "*",
     "wpackagist-plugin/zapier": "1.0.4",
     "wpackagist-plugin/moosend-email-marketing": "1.0.190"
   },
